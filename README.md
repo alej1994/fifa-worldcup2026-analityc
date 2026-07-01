@@ -1,8 +1,5 @@
 # 🏆 FIFA World Cup 2026 — Analytics & Scout Dashboard
 
-![Dashboard Preview](images/dashboard_preview.png)
-
-
 ---
 
 ## 📝 Sobre o Projeto
